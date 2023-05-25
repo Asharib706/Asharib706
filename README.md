@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://seaborn.pydata.org/tutorial.html"_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
 
 
-# 📊GitHub Stats :
+## 📊GitHub Stats :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asharib706&show_icons=true&locale=en&layout=compact&theme=defautlt" alt="Asharib706" /></p>
 
