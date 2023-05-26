@@ -34,12 +34,9 @@ Here are some ideas to get you started:
 
 
 ## 📊GitHub Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?
-username=Asharib706&show_icons=true&locale=en&layout=compact&theme=defautlt" alt="Asharib706" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asharib706&show_icons=true&locale=en&theme=default" alt="Asharib706" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asharib706&show_icons=true&locale=en&layout=compact" alt="Asharib706" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asharib706&&theme=default" alt="Asharib706" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asharib706&show_icons=true&locale=en" alt="Asharib706" /></p>
 
 
 
