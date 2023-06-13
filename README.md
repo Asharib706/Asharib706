@@ -1,6 +1,6 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/5fce63270356d927d7eecdbd/fa356936-e271-46c0-8668-29d2b1fbd73c/landscape_illustr_ML_AI_Data.png)](https://github.com/Asharib706)
 
-<img align="right" alt="Datascience" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif">
+<img align="right" alt="Datascience" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 <h1 align="center">Hi there 👋, I'm  Muhammad Asharib Siddiqui</h1>
 <h2 align="center">FUTURE DATA SCIENTIST</h2>
 
