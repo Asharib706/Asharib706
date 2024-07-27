@@ -2,7 +2,7 @@
 
 <img align="right" alt="Datascience" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 <h1 align="center">Hi there 👋, I'm  Muhammad Asharib Siddiqui</h1>
-<h2 align="center">FUTURE DATA SCIENTIST</h2>
+<h2 align="center">DATA SCIENTIST</h2>
 
 
 - 🔭 I’m currently working on Data science and Machine Learning
